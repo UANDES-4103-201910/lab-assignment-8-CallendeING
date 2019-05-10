@@ -1,0 +1,2 @@
+class KeyboardDemosControllerdemo2Controller < ApplicationController
+end

@@ -13,11 +13,10 @@ html {
 
 .parrafo{
 	padding-left: 10px;
-	background-color: #00F900;
 }
 
 #texto{
-	color: #000;
+	color: #00F900;
 	margin-top: 15px;
 	margin-bottom: 15px;
 	width: 98%;
