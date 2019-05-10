@@ -5,12 +5,38 @@ html {
 	background-color: #000;
 }
 
+#btnHS{
+	background-color: #ff9900;
+	width: 99%;
+	color: #083900;
+}
+
+.parrafo{
+	padding-left: 10px;
+	background-color: #00F900;
+}
+
+#texto{
+	color: #000;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	width: 98%;
+	border-radius: 10px;
+}
+.hideShowBtn{
+	position: absolute;
+	width: 99%;
+	bottom: 0px;
+}
 #kcontainer {
 	display: flex;
 	flex-direction: column;
 	flex-wrap: nowrap;
 	justify-content: flex-start;
 	align-items: center;
+	position: absolute;
+	bottom: 30px;
+	width: 99%;
 }
 
 .keyboard_row {
