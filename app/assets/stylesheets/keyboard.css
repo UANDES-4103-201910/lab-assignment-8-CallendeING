@@ -23,9 +23,14 @@ html {
 	border-radius: 10px;
 }
 .hideShowBtn{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
 	position: absolute;
 	width: 99%;
 	bottom: 0px;
+	align-items: center;
 }
 #kcontainer {
 	display: flex;
